@@ -1,0 +1,34 @@
+Gene name : YFAP
+Protein sequence : QNTANNTCATQLANFLVQQHS
+#################################################################################### CANDIDATES DETAILS ####################################################################################
+
+Number     Sequence                                                Score           Arc Type        Start Position  Stop Position   Length
+1          QNTANNTCATQLANFLVQ                                      0.504           GBPL            1               18              18
+2          QNTANNTCATQLANFLVQQ                                     0.454           5 Res Arc       1               19              19
+3          QNTANNTCATQLANFLVQQH                                    0.346           6 Res Arc 1     1               20              20
+4          QNTANNTCATQLANFLVQQH                                    0.346           6 Res Arc 2     1               20              20
+5          QNTANNTCATQLAN                                          0.328           GBPL            1               14              14
+6          QNTANNTCATQLANFL                                        0.309           6 Res Arc 1     1               16              16
+7          QNTANNTCATQLANFL                                        0.309           6 Res Arc 2     1               16              16
+8          QNTANNTCATQLANF                                         0.307           5 Res Arc       1               15              15
+9          NTANNTCATQLANFLVQQ                                      0.562           GBPL            2               19              18
+10         NTANNTCATQLANFLVQQH                                     0.419           5 Res Arc       2               20              19
+11         NTANNTCATQLANFLVQQHS                                    0.395           6 Res Arc 1     2               21              20
+12         NTANNTCATQLANFLVQQHS                                    0.395           6 Res Arc 2     2               21              20
+13         NTANNTCATQLANFL                                         0.389           5 Res Arc       2               16              15
+14         NTANNTCATQLANF                                          0.369           GBPL            2               15              14
+15         NTANNTCATQLANFLV                                        0.368           6 Res Arc 1     2               17              16
+16         NTANNTCATQLANFLV                                        0.368           6 Res Arc 2     2               17              16
+17         ANNTCATQLANFLVQQHS                                      0.294           GBPL            4               21              18
+18         NNTCATQLANFLVQ                                          0.364           GBPL            5               18              14
+19         NNTCATQLANFLVQQ                                         0.328           5 Res Arc       5               19              15
+20         NNTCATQLANFLVQQHS                                       0.243           PPL             5               21              17
+21         NNTCATQLANFLVQQH                                        0.213           6 Res Arc 1     5               20              16
+22         NNTCATQLANFLVQQH                                        0.213           6 Res Arc 2     5               20              16
+23         NTCATQLANFLVQQH                                         0.205           5 Res Arc       6               20              15
+24         NTCATQLANFLVQQHS                                        0.193           6 Res Arc 1     6               21              16
+25         NTCATQLANFLVQQHS                                        0.193           6 Res Arc 2     6               21              16
+26         TCATQLANFLVQQH                                          0.227           GBPL            7               20              14
+27         TCATQLANFLVQQHS                                         0.205           5 Res Arc       7               21              15
+28         CATQLANFLVQQHS                                          0.123           GBPL            8               21              14
+29         ATQLANFLVQQHS                                           0.324           PPL             9               21              13

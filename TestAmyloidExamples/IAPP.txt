@@ -1,0 +1,137 @@
+Gene name : IAPP
+Protein name : Islet amyloid polypeptide
+Protein sequence : MGILKLQVFLIVLSVALNHLKATPIESHQVEKRKCNTATCATQRLANFLVHSSNNFGAILSSTNVGSNTYGKRNAVEVLKREPLNYLPL
+#################################################################################### CANDIDATES DETAILS ####################################################################################
+Number     Sequence                                                Score           Arc Type        Start Position  Stop Position   Length
+1          GILKLQVFLIVLSVALNHL                                     0.388           5 Res Arc       2               20              19
+2          GILKLQVFLIVLSVALN                                       0.282           PPL             2               18              17
+3          GILKLQVFLIVLSV                                          0.275           GBPL            2               15              14
+4          GILKLQVFLIVLSVAL                                        0.264           6 Res Arc 1     2               17              16
+5          GILKLQVFLIVLSVAL                                        0.264           6 Res Arc 2     2               17              16
+6          GILKLQVFLIVLSVA                                         0.166           5 Res Arc       2               16              15
+7          LKLQVFLIVLSVALNHL                                       0.538           PPL             4               20              17
+8          LKLQVFLIVLSVALNHLKA                                     0.424           5 Res Arc       4               22              19
+9          LKLQVFLIVLSVALNH                                        0.264           6 Res Arc 1     4               19              16
+10         LKLQVFLIVLSVALNH                                        0.264           6 Res Arc 2     4               19              16
+11         LQVFLIVLSVALNHLKA                                       0.538           PPL             6               22              17
+12         LQVFLIVLSVALNH                                          0.307           GBPL            6               19              14
+13         LQVFLIVLSVALNHLKATPIESHQVEKRKCNTATCA                    0.217           6 Res Arc 1     6               41              36
+14         LQVFLIVLSVALNHLKATPIESHQVEKRKCNTATCA                    0.157           6 Res Arc 2     6               41              36
+15         LQVFLIVLSVALNHLKATPIESHQVEKRKCNT                        0.143           6 Res Arc 1     6               37              32
+16         QVFLIVLSVALNHL                                          0.455           GBPL            7               20              14
+17         QVFLIVLSVALNHLKA                                        0.335           6 Res Arc 1     7               22              16
+18         QVFLIVLSVALNHLKA                                        0.335           6 Res Arc 2     7               22              16
+19         QVFLIVLSVALNH                                           0.208           PPL             7               19              13
+20         VFLIVLSVALNHLKA                                         0.352           5 Res Arc       8               22              15
+21         VFLIVLSVALNHLKATPIESHQVEKRKCNTATCATQ                    0.157           6 Res Arc 2     8               43              36
+22         FLIVLSVALNHLKA                                          0.349           GBPL            9               22              14
+23         LIVLSVALNHLKA                                           0.390           PPL             10              22              13
+24         IVLSVALNHLKATPIESHQVEKR                                 0.175           5 Res Arc       11              33              23
+25         IESHQVEKRKCNTATCATQRLANFLVH                             0.261           5 Res Arc       25              51              27
+26         IESHQVEKRKCNTATCATQRLAN                                 0.242           5 Res Arc       25              47              23
+27         IESHQVEKRKCNTATCATQRLANFLVHSSNNFGAIL                    0.241           6 Res Arc 1     25              60              36
+28         IESHQVEKRKCNTATCATQRLANFLVHSSNNFGAIL                    0.241           6 Res Arc 2     25              60              36
+29         IESHQVEKRKCNTATCATQRLANFLVHSSNN                         0.232           5 Res Arc       25              55              31
+30         IESHQVEKRKCNTATCATQRLANFLVHSSNNFGAI                     0.206           5 Res Arc       25              59              35
+31         IESHQVEKRKCNTATCATQ                                     0.170           5 Res Arc       25              43              19
+32         IESHQVEKRKCNTA                                          0.097           GBPL            25              38              14
+33         IESHQVEKRKCNTATCAT                                      0.075           GBPL            25              42              18
+34         SHQVEKRKCNTATCAT                                        0.045           6 Res Arc 2     27              42              16
+35         QVEKRKCNTATCATQRLANFLVHSSNNFGA                          0.268           GBPL            29              58              30
+36         QVEKRKCNTATCATQRLANFLVHSSNNFGAIL                        0.231           6 Res Arc 1     29              60              32
+37         QVEKRKCNTATCAT                                          0.097           GBPL            29              42              14
+38         CNTATCATQRLANFLVHSSNNFGAIL                              0.375           GBPL            35              60              26
+39         CNTATCATQRLANFLVHSSNNFGA                                0.270           6 Res Arc 1     35              58              24
+40         CNTATCATQRLANFLVHSSNNFGA                                0.270           6 Res Arc 2     35              58              24
+41         CNTATCATQRLANFLVHSSNNF                                  0.265           GBPL            35              56              22
+42         CNTATCATQRLANFLVHSSNN                                   0.206           PPL             35              55              21
+43         NTATCATQRLANFLV                                         0.352           5 Res Arc       36              50              15
+44         NTATCATQRLANFL                                          0.349           GBPL            36              49              14
+45         NTATCATQRLANFLVHSSN                                     0.307           5 Res Arc       36              54              19
+46         NTATCATQRLANFLVH                                        0.246           6 Res Arc 2     36              51              16
+47         NTATCATQRLANFLVHSSNN                                    0.214           6 Res Arc 1     36              55              20
+48         NTATCATQRLANFLVHSSNN                                    0.214           6 Res Arc 2     36              55              20
+49         TATCATQRLANFLVHSSNNFGAIL                                0.405           6 Res Arc 1     37              60              24
+50         TATCATQRLANFLVHSSNNFGAIL                                0.405           6 Res Arc 2     37              60              24
+51         TATCATQRLANFLVHSSNNFGAI                                 0.299           5 Res Arc       37              59              23
+52         TATCATQRLANFLVHSSNN                                     0.177           5 Res Arc       37              55              19
+53         TCATQRLANFLVHSSNNFGAILSSTNVGSNTY                        0.609           6 Res Arc 1     39              70              32
+54         TCATQRLANFLVHSSNNFGAILSSTNVGSNTY                        0.609           6 Res Arc 2     39              70              32
+55         TCATQRLANFLVHSSNNFGAIL                                  0.537           GBPL            39              60              22
+56         TCATQRLANFLVHSSNNFGAILSSTN                              0.487           GBPL            39              64              26
+57         TCATQRLANFLVHSSNNFGAILSSTNV                             0.388           5 Res Arc       39              65              27
+58         TCATQRLANFLVHSSNNFGAI                                   0.323           PPL             39              59              21
+59         ATQRLANFLVHSSNNFGAILSSTNVGSNTY                          0.699           GBPL            41              70              30
+60         ATQRLANFLVHSSNNFGAILS                                   0.468           PPL             41              61              21
+61         ATQRLANFLVHSSNNFGAILSSTN                                0.446           6 Res Arc 1     41              64              24
+62         ATQRLANFLVHSSNNFGAILSSTN                                0.446           6 Res Arc 2     41              64              24
+63         ATQRLANFLVHSSNNFGAIL                                    0.429           6 Res Arc 1     41              60              20
+64         ATQRLANFLVHSSNNFGAIL                                    0.429           6 Res Arc 2     41              60              20
+65         ATQRLANFLVHSSNNFGAILSSTNV                               0.393           PPL             41              65              25
+66         ATQRLANFLVHSSNNFGAI                                     0.388           5 Res Arc       41              59              19
+67         QRLANFLVHSSNNFGAILSSTNVGSNTY                            0.546           6 Res Arc 1     43              70              28
+68         QRLANFLVHSSNNFGAILSSTNVGSNTY                            0.546           6 Res Arc 2     43              70              28
+69         QRLANFLVHSSNNFGAILSSTN                                  0.537           GBPL            43              64              22
+70         QRLANFLVHSSNNFGAILSSTNVGSNT                             0.445           5 Res Arc       43              69              27
+71         QRLANFLVHSSNNFGAILSSTNV                                 0.442           5 Res Arc       43              65              23
+72         LANFLVHSSNNFGAILSSTNVGSNTY                              0.579           BEPL            45              70              26
+73         LANFLVHSSNNFGAILSSTNVGSNTY                              0.579           GBPL            45              70              26
+74         LANFLVHSSNNFGAILSSTNV                                   0.450           PPL             45              65              21
+75         LANFLVHSSNNFGAILSSTNVGSNTYG                             0.382           5 Res Arc       45              71              27
+76         LANFLVHSSNNFGAILSSTNVGSNT                               0.258           PPL             45              69              25
+77         ANFLVHSSNNFGAILSSTN                                     0.551           5 Res Arc       46              64              19
+78         ANFLVHSSNNFGAILSSTNVGSNTYG                              0.501           GBPL            46              71              26
+79         ANFLVHSSNNFGAILSSTNVGSN                                 0.479           5 Res Arc       46              68              23
+80         ANFLVHSSNNFGAILSS                                       0.466           PPL             46              62              17
+81         ANFLVHSSNNFGAILSSTNVGS                                  0.443           GBEB            46              67              22
+82         ANFLVHSSNNFGAILSSTNV                                    0.434           6 Res Arc 1     46              65              20
+83         ANFLVHSSNNFGAILSSTNV                                    0.434           6 Res Arc 2     46              65              20
+84         ANFLVHSSNNFGAILSSTNVGSNT                                0.396           6 Res Arc 1     46              69              24
+85         ANFLVHSSNNFGAILSSTNVGSNT                                0.396           6 Res Arc 2     46              69              24
+86         ANFLVHSSNNFGAILSST                                      0.388           GBPL            46              63              18
+87         ANFLVHSSNNFGAIL                                         0.369           5 Res Arc       46              60              15
+88         ANFLVHSSNNFGAILSSTNVGS                                  0.355           GBPL            46              67              22
+89         ANFLVHSSNNFGA                                           0.333           PPL             46              58              13
+90         ANFLVHSSNNFGAI                                          0.319           GBPL            46              59              14
+91         ANFLVHSSNNFGAILS                                        0.271           6 Res Arc 1     46              61              16
+92         ANFLVHSSNNFGAILS                                        0.271           6 Res Arc 2     46              61              16
+93         NFLVHSSNNFGAILSSTNVGSNTY                                0.471           6 Res Arc 1     47              70              24
+94         NFLVHSSNNFGAILSSTNVGSNTY                                0.471           6 Res Arc 2     47              70              24
+95         NFLVHSSNNFGAILSSTNVGSNTYG                               0.326           PPL             47              71              25
+96         FLVHSSNNFGAILSSTNVGSNTY                                 0.599           5 Res Arc       48              70              23
+97         FLVHSSNNFGAILSSTNVGSNTYG                                0.396           6 Res Arc 2     48              71              24
+98         LVHSSNNFGAILSSTNVGSNTY                                  0.421           GBPL            49              70              22
+99         LVHSSNNFGAILSSTNVGSNTYG                                 0.242           5 Res Arc       49              71              23
+100        VHSSNNFGAILSSTNVGSNTY                                   0.519           PPL             50              70              21
+101        VHSSNNFGAILSSTNVGSNTYG                                  0.354           GBPL            50              71              22
+102        HSSNNFGAILSSTNVGSNTY                                    0.247           6 Res Arc 1     51              70              20
+103        HSSNNFGAILSSTNVGSNTY                                    0.247           6 Res Arc 2     51              70              20
+104        SSNNFGAILSSTNVGSNTY                                     0.349           5 Res Arc       52              70              19
+105        SNNFGAILSSTNVGSNTY                                      0.291           GBPL            53              70              18
+106        NNFGAILSSTNVGSNTY                                       0.292           PPL             54              70              17
+107        NNFGAILSSTNVGSNTYG                                      0.291           GBPL            54              71              18
+108        NNFGAILSSTNVGSNT                                        0.213           6 Res Arc 1     54              69              16
+109        NNFGAILSSTNVGSNT                                        0.213           6 Res Arc 2     54              69              16
+110        NFGAILSSTNVGSNTY                                        0.290           6 Res Arc 1     55              70              16
+111        NFGAILSSTNVGSNTY                                        0.290           6 Res Arc 2     55              70              16
+112        NFGAILSSTNVGSNTYG                                       0.223           PPL             55              71              17
+113        NFGAILSSTNVGS                                           0.139           PPL             55              67              13
+114        NFGAILSSTNVGSNT                                         0.123           5 Res Arc       55              69              15
+115        FGAILSSTNVGSNTY                                         0.389           5 Res Arc       56              70              15
+116        FGAILSSTNVGSNTYG                                        0.254           6 Res Arc 1     56              71              16
+117        FGAILSSTNVGSNTYG                                        0.254           6 Res Arc 2     56              71              16
+118        GAILSSTNVGSNTY                                          0.341           GBPL            57              70              14
+119        GAILSSTNVGSNTYG                                         0.161           5 Res Arc       57              71              15
+120        AILSSTNVGSNTY                                           0.440           PPL             58              70              13
+121        AILSSTNVGSNTYG                                          0.299           GBPL            58              71              14
+122        TNVGSNTYGKRNAVEV                                        0.317           6 Res Arc 1     63              78              16
+123        TNVGSNTYGKRNAVEV                                        0.317           6 Res Arc 2     63              78              16
+124        NVGSNTYGKRNAVEVL                                        0.313           6 Res Arc 1     64              79              16
+125        NVGSNTYGKRNAVEV                                         0.309           5 Res Arc       64              78              15
+126        VGSNTYGKRNAVEV                                          0.337           BEPL            65              78              14
+127        VGSNTYGKRNAVEV                                          0.337           GBPL            65              78              14
+128        VGSNTYGKRNAVEVL                                         0.329           5 Res Arc       65              79              15
+129        GSNTYGKRNAVEVL                                          0.326           GBPL            66              79              14
+130        GSNTYGKRNAVEV                                           0.200           PPL             66              78              13
+131        SNTYGKRNAVEVLKRE                                        0.082           6 Res Arc 1     67              82              16
+132        SNTYGKRNAVEVLKRE                                        0.082           6 Res Arc 2     67              82              16

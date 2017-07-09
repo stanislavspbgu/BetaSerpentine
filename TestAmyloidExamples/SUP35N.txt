@@ -1,0 +1,221 @@
+Gene name : SUP35N
+Protein sequence : MSDSNQGNNQQNYQQYSQNGNQQQGNNRYQGYQAYNAQAQPAGGYYQNYQGYSGYQQGGYQQYNPDAGYQQQYNPQGGYQQYNPQGGYQQQFNPQGGRGNYKNFNYNNNLQGYQAGFQPQSQG
+#################################################################################### CANDIDATES DETAILS ####################################################################################
+Number     Sequence                                                Score           Arc Type        Start Position  Stop Position   Length          Candidate / query %  Location
+1          MSDSNQGNNQQNYQQYSQNGNQQQGNNRYQ                          0.480           GBPL            1               30              30
+2          SDSNQGNNQQNYQQYSQNGNQQ                                  0.355           GBPL            2               23              22
+3          SDSNQGNNQQNYQQYSQ                                       0.297           PPL             2               18              17
+4          SDSNQGNNQQNYQQY                                         0.243           5 Res Arc       2               16              15
+5          SDSNQGNNQQNYQQ                                          0.241           GBPL            2               15              14
+6          SDSNQGNNQQNYQQYSQNGN                                    0.230           6 Res Arc 1     2               21              20
+7          SDSNQGNNQQNYQQYSQNGN                                    0.230           6 Res Arc 2     2               21              20
+8          SDSNQGNNQQNYQ                                           0.216           PPL             2               14              13
+9          SDSNQGNNQQNYQQYSQN                                      0.214           GBPL            2               19              18
+10         SDSNQGNNQQNYQQYS                                        0.116           6 Res Arc 1     2               17              16
+11         SDSNQGNNQQNYQQYS                                        0.116           6 Res Arc 2     2               17              16
+12         SNQGNNQQNYQQYSQNGNQQQGN                                 0.455           5 Res Arc       4               26              23
+13         SNQGNNQQNYQQYSQNGNQQQGNN                                0.430           6 Res Arc 1     4               27              24
+14         SNQGNNQQNYQQYSQNGNQQQGNN                                0.430           6 Res Arc 2     4               27              24
+15         SNQGNNQQNYQQYSQNGNQQ                                    0.412           6 Res Arc 1     4               23              20
+16         SNQGNNQQNYQQYSQNGNQQ                                    0.412           6 Res Arc 2     4               23              20
+17         SNQGNNQQNYQQYSQNGNQQQ                                   0.311           PPL             4               24              21
+18         SNQGNNQQNYQQYSQ                                         0.307           5 Res Arc       4               18              15
+19         NQGNNQQNYQQYSQNGNQQQGNNRYQGYQAY                         0.644           5 Res Arc       5               35              31
+20         NQGNNQQNYQQYSQNGNQQQGNNRYQG                             0.577           5 Res Arc       5               31              27
+21         NQGNNQQNYQQYSQNGNQQQGNNRYQGYQAYNA                       0.525           PPL             5               37              33
+22         NQGNNQQNYQQYSQNGNQQQG                                   0.519           PPL             5               25              21
+23         NQGNNQQNYQQYSQNGNQQQGNNRY                               0.449           PPL             5               29              25
+24         NQGNNQQNYQQYSQNGNQQ                                     0.436           5 Res Arc       5               23              19
+25         NQGNNQQNYQQYSQNGNQQQ                                    0.329           6 Res Arc 1     5               24              20
+26         NQGNNQQNYQQYSQNGNQQQ                                    0.329           6 Res Arc 2     5               24              20
+27         NQGNNQQNYQQYSQNGN                                       0.324           PPL             5               21              17
+28         NQGNNQQNYQQYSQ                                          0.307           GBPL            5               18              14
+29         NQGNNQQNYQQYSQN                                         0.205           5 Res Arc       5               19              15
+30         NQGNNQQNYQQYSQNG                                        0.193           6 Res Arc 1     5               20              16
+31         NQGNNQQNYQQYSQNG                                        0.193           6 Res Arc 2     5               20              16
+32         NQGNNQQNYQQYS                                           0.139           PPL             5               17              13
+33         QGNNQQNYQQYSQNGNQQQGNNRYQGYQAY                          0.794           BEPL            6               35              30
+34         QGNNQQNYQQYSQNGNQQQGNNRYQGYQAY                          0.794           GBPL            6               35              30
+35         QGNNQQNYQQYSQNGNQQQGNNRYQGYQAYNA                        0.731           6 Res Arc 1     6               37              32
+36         QGNNQQNYQQYSQNGNQQQGNNRYQGYQAYNA                        0.731           6 Res Arc 2     6               37              32
+37         QGNNQQNYQQYSQNGNQQQGNNRYQGYQ                            0.624           6 Res Arc 2     6               33              28
+38         QGNNQQNYQQYSQNGNQQQGNNRY                                0.622           6 Res Arc 1     6               29              24
+39         QGNNQQNYQQYSQNGNQQQGNNRY                                0.622           6 Res Arc 2     6               29              24
+40         QGNNQQNYQQYSQNGNQQQGNNRYQG                              0.585           GBPL            6               31              26
+41         QGNNQQNYQQYSQNGNQQ                                      0.582           GBPL            6               23              18
+42         QGNNQQNYQQYSQNGNQQQGN                                   0.484           PPL             6               26              21
+43         QGNNQQNYQQYSQNGNQQQGNN                                  0.472           GBPL            6               27              22
+44         QGNNQQNYQQYSQ                                           0.370           PPL             6               18              13
+45         GNNQQNYQQYSQNGNQQQGN                                    0.412           6 Res Arc 1     7               26              20
+46         GNNQQNYQQYSQNGNQQQGN                                    0.412           6 Res Arc 2     7               26              20
+47         NNQQNYQQYSQNGNQQQGNNRYQGYQAYNAQA                        0.718           6 Res Arc 1     8               39              32
+48         NNQQNYQQYSQNGNQQQGNNRYQGYQAYNAQA                        0.718           6 Res Arc 2     8               39              32
+49         NNQQNYQQYSQNGNQQQGNNRYQGYQAYNA                          0.652           GBPL            8               37              30
+50         NNQQNYQQYSQNGNQQQGN                                     0.523           5 Res Arc       8               26              19
+51         NQQNYQQYSQNGNQQQGNNRY                                   0.744           PPL             9               29              21
+52         NQQNYQQYSQNGNQQQGNNRYQGYQAYNAQA                         0.687           5 Res Arc       9               39              31
+53         NQQNYQQYSQNGNQQQGNNRYQGYQAY                             0.659           5 Res Arc       9               35              27
+54         NQQNYQQYSQNGNQQQGNNRYQGYQAYNA                           0.591           PPL             9               37              29
+55         NQQNYQQYSQNGNQQQGN                                      0.582           GBPL            9               26              18
+56         QQNYQQYSQNGNQQQGNNRYQGYQAYNAQA                          0.762           GBEB            10              39              30
+57         QQNYQQYSQNGNQQQGNNRYQGYQAYNAQA                          0.686           GBPL            10              39              30
+58         QQNYQQYSQNGNQQQGN                                       0.608           PPL             10              26              17
+59         QNYQQYSQNGNQQQGNNRYQGYQAYNAQA                           0.610           PPL             11              39              29
+60         QNYQQYSQNGNQQQGN                                        0.509           6 Res Arc 1     11              26              16
+61         QNYQQYSQNGNQQQGN                                        0.509           6 Res Arc 2     11              26              16
+62         NYQQYSQNGNQQQGNNRYQGYQAYNAQA                            0.593           6 Res Arc 1     12              39              28
+63         NYQQYSQNGNQQQGNNRYQGYQAYNAQA                            0.593           6 Res Arc 2     12              39              28
+64         NYQQYSQNGNQQQGN                                         0.539           5 Res Arc       12              26              15
+65         YQQYSQNGNQQQGNNRYQGYQAYNAQAQ                            0.687           6 Res Arc 1     13              40              28
+66         YQQYSQNGNQQQGNNRYQGYQAYNAQAQ                            0.687           6 Res Arc 2     13              40              28
+67         YQQYSQNGNQQQGNNRYQGYQAYNAQA                             0.626           5 Res Arc       13              39              27
+68         YQQYSQNGNQQQGN                                          0.599           GBEB            13              26              14
+69         YQQYSQNGNQQQGN                                          0.599           GBPL            13              26              14
+70         QQYSQNGNQQQGNNRYQGYQAYNAQAQ                             0.725           5 Res Arc       14              40              27
+71         QQYSQNGNQQQGNNRYQGYQAYNAQA                              0.556           GBPL            14              39              26
+72         QQYSQNGNQQQGN                                           0.488           PPL             14              26              13
+73         QYSQNGNQQQGNNRYQGYQAYNAQAQ                              0.611           GBPL            15              40              26
+74         QYSQNGNQQQGNNRYQGYQAYNAQA                               0.533           PPL             15              39              25
+75         YSQNGNQQQGNNRYQGYQAYNAQA                                0.586           6 Res Arc 2     16              39              24
+76         YSQNGNQQQGNNRYQGYQAYNAQAQ                               0.494           PPL             16              40              25
+77         SQNGNQQQGNNRYQGYQAYNAQAQ                                0.604           6 Res Arc 1     17              40              24
+78         NGNQQQGNNRYQGYQAYNAQA                                   0.533           PPL             19              39              21
+79         GNQQQGNNRYQGYQAYNAQA                                    0.464           6 Res Arc 1     20              39              20
+80         GNQQQGNNRYQGYQAYNAQA                                    0.464           6 Res Arc 2     20              39              20
+81         NQQQGNNRYQGYQAYNAQAQ                                    0.504           6 Res Arc 1     21              40              20
+82         NQQQGNNRYQGYQAYNAQAQ                                    0.504           6 Res Arc 2     21              40              20
+83         NQQQGNNRYQGYQAYNAQA                                     0.489           5 Res Arc       21              39              19
+84         NQQQGNNRYQGYQAYNAQAQPAGGYYQNYQGYSGYQ                    0.285           6 Res Arc 1     21              56              36
+85         NQQQGNNRYQGYQAYNAQAQPAGGYYQNYQGYSGYQ                    0.285           6 Res Arc 2     21              56              36
+86         QQGNNRYQGYQAYNAQAQ                                      0.588           BEPL            23              40              18
+87         QQGNNRYQGYQAYNAQAQ                                      0.588           GBPL            23              40              18
+88         QQGNNRYQGYQAYNAQAQPAGGYYQNYQGYSGYQQ                     0.417           5 Res Arc       23              57              35
+89         QQGNNRYQGYQAYNAQA                                       0.337           PPL             23              39              17
+90         GNNRYQGYQAYNAQAQ                                        0.348           6 Res Arc 2     25              40              16
+91         NRYQGYQAYNAQAQPAGGYYQNYQGYSGYQQ                         0.409           5 Res Arc       27              57              31
+92         NRYQGYQAYNAQAQ                                          0.408           GBPL            27              40              14
+93         NRYQGYQAYNAQA                                           0.370           PPL             27              39              13
+94         YQGYQAYNAQAQPAGGYYQNYQGY                                0.594           6 Res Arc 1     29              52              24
+95         YQGYQAYNAQAQPAGGYYQNY                                   0.467           PPL             29              49              21
+96         YQGYQAYNAQAQPAGGYYQNYQGY                                0.429           6 Res Arc 2     29              52              24
+97         YQGYQAYNAQAQPAGGYYQNYQGYSGYQ                            0.416           6 Res Arc 1     29              56              28
+98         YQGYQAYNAQAQPAGGYYQNYQGYSGYQ                            0.416           6 Res Arc 2     29              56              28
+99         QGYQAYNAQAQPAGGYYQNYQGYSGY                              0.752           GBEB            30              55              26
+100        QGYQAYNAQAQPAGGYYQNYQGY                                 0.701           5 Res Arc       30              52              23
+101        QGYQAYNAQAQPAGGYYQNYQGYSGYQ                             0.688           5 Res Arc       30              56              27
+102        QGYQAYNAQAQPAGGYYQNYQGYSGYQQ                            0.576           6 Res Arc 1     30              57              28
+103        QGYQAYNAQAQPAGGYYQNYQGYSGYQQ                            0.576           6 Res Arc 2     30              57              28
+104        QGYQAYNAQAQPAGGYYQNYQGYS                                0.492           6 Res Arc 2     30              53              24
+105        QGYQAYNAQAQPAGGYYQNY                                    0.430           6 Res Arc 1     30              49              20
+106        QGYQAYNAQAQPAGGYYQNY                                    0.430           6 Res Arc 2     30              49              20
+107        QGYQAYNAQAQPAGGYYQNYQ                                   0.382           PPL             30              50              21
+108        QGYQAYNAQAQPAGGYYQNYQGYS                                0.355           6 Res Arc 1     30              53              24
+109        QGYQAYNAQAQPAGGYYQN                                     0.272           5 Res Arc       30              48              19
+110        YQAYNAQAQPAGGYYQNYQGY                                   0.577           PPL             32              52              21
+111        QAYNAQAQPAGGYYQNY                                       0.588           PPL             33              49              17
+112        AGGYYQNYQGYSGYQQGGYQQ                                   0.660           PPL             42              62              21
+113        AGGYYQNYQGYSGYQQGGYQQYN                                 0.579           5 Res Arc       42              64              23
+114        AGGYYQNYQGYSGYQQGG                                      0.485           GBEB            42              59              18
+115        AGGYYQNYQGYSGYQQGG                                      0.485           GBPL            42              59              18
+116        AGGYYQNYQGYSGYQQGGY                                     0.436           5 Res Arc       42              60              19
+117        AGGYYQNYQGYSGYQQGGYQ                                    0.412           6 Res Arc 1     42              61              20
+118        AGGYYQNYQGYSGYQQGGYQ                                    0.412           6 Res Arc 2     42              61              20
+119        AGGYYQNYQGYSGYQQ                                        0.356           6 Res Arc 2     42              57              16
+120        AGGYYQNYQGYSGYQQG                                       0.224           PPL             42              58              17
+121        AGGYYQNYQGYSGY                                          0.184           GBPL            42              55              14
+122        AGGYYQNYQGYSG                                           0.125           PPL             42              54              13
+123        GGYYQNYQGYSGYQQGGYQQY                                   0.683           PPL             43              63              21
+124        GGYYQNYQGYSGYQQGGYQQYN                                  0.665           GBEB            43              64              22
+125        GGYYQNYQGYSGYQQGGYQQYN                                  0.665           GBPL            43              64              22
+126        GGYYQNYQGYSGYQQGGY                                      0.510           BEPL            43              60              18
+127        GGYYQNYQGYSGYQQGGY                                      0.510           GBPL            43              60              18
+128        GGYYQNYQGYSGYQQGGYQQ                                    0.434           6 Res Arc 2     43              62              20
+129        GGYYQNYQGYSGYQQ                                         0.404           5 Res Arc       43              57              15
+130        GGYYQNYQGYSGYQQG                                        0.254           6 Res Arc 1     43              58              16
+131        GGYYQNYQGYSGYQQG                                        0.254           6 Res Arc 2     43              58              16
+132        GGYYQNYQGYSGY                                           0.231           PPL             43              55              13
+133        GYYQNYQGYSGYQQGGYQQY                                    0.434           6 Res Arc 1     44              63              20
+134        GYYQNYQGYSGYQQGGYQQY                                    0.434           6 Res Arc 2     44              63              20
+135        GYYQNYQGYSGYQQGGYQQYN                                   0.410           PPL             44              64              21
+136        YYQNYQGYSGYQQGGYQQYN                                    0.651           6 Res Arc 1     45              64              20
+137        YYQNYQGYSGYQQGGYQQYN                                    0.651           6 Res Arc 2     45              64              20
+137        YYQNYQGYSGYQQ                                           0.61            PPL             45              57              13
+139        YYQNYQGYSGYQQGGYQQY                                     0.574           5 Res Arc       45              63              19
+140        YQNYQGYSGYQQGGYQQY                                      0.638           BEPL            46              63              18
+141        YQNYQGYSGYQQGGYQQY                                      0.574           GBPL            46              63              18
+142        QNYQGYSGYQQGGYQQYN                                      0.638           GBPL            47              64              18
+143        QNYQGYSGYQQGGYQQY                                       0.533           PPL             47              63              17
+144        NYQGYSGYQQGGYQQYN                                       0.608           PPL             48              64              17
+145        NYQGYSGYQQGGYQQY                                        0.509           6 Res Arc 2     48              63              16
+146        YQGYSGYQQGGYQQY                                         0.404           5 Res Arc       49              63              15
+147        YQGYSGYQQGGYQQYN                                        0.382           6 Res Arc 1     49              64              16
+148        YQGYSGYQQGGYQQYN                                        0.382           6 Res Arc 2     49              64              16
+149        QGYSGYQQGGYQQY                                          0.599           GBPL            50              63              14
+150        QGYSGYQQGGYQQYN                                         0.539           5 Res Arc       50              64              15
+151        YSGYQQGGYQQYN                                           0.274           PPL             52              64              13
+152        SGYQQGGYQQYNPDAGYQQQY                                   0.337           PPL             53              73              21
+153        GYQQGGYQQYNPDAGYQQQY                                    0.276           6 Res Arc 2     54              73              20
+154        YQQGGYQQYNPDAGYQQQY                                     0.363           5 Res Arc       55              73              19
+155        YQQGGYQQYNPDAGYQQQYN                                    0.345           6 Res Arc 1     55              74              20
+156        YQQGGYQQYNPDAGYQQQYN                                    0.249           6 Res Arc 2     55              74              20
+157        QQGGYQQYNPDAGYQQQYN                                     0.363           5 Res Arc       56              74              19
+158        QGGYQQYNPDAGYQQQY                                       0.464           PPL             57              73              17
+159        GGYQQYNPDAGYQQQY                                        0.313           6 Res Arc 2     58              73              16
+160        GGYQQYNPDAGYQQQYN                                       0.301           PPL             58              74              17
+161        YQQYNPDAGYQQQYN                                         0.439           5 Res Arc       60              74              15
+162        AGYQQQYNPQGGYQQYN                                       0.588           PPL             67              83              17
+163        AGYQQQYNPQGGYQQY                                        0.435           6 Res Arc 1     67              82              16
+164        AGYQQQYNPQGGYQQ                                         0.350           5 Res Arc       67              81              15
+165        AGYQQQYNPQGGYQQY                                        0.314           6 Res Arc 2     67              82              16
+166        AGYQQQYNPQGGY                                           0.233           PPL             67              79              13
+167        GYQQQYNPQGGYQQY                                         0.364           5 Res Arc       68              82              15
+168        GYQQQYNPQGGYQQYN                                        0.344           6 Res Arc 2     68              83              16
+169        GYQQQYNPQGGYQQYN                                        0.248           6 Res Arc 1     68              83              16
+170        GYQQQYNPQGGYQ                                           0.120           PPL             68              80              13
+171        QQQYNPQGGYQQYN                                          0.599           GBEB            70              83              14
+172        QQQYNPQGGYQQY                                           0.396           PPL             70              82              13
+173        QGGYQQYNPQGGYQQQF                                       0.507           PPL             76              92              17
+174        QGGYQQYNPQGGYQQQ                                        0.344           6 Res Arc 1     76              91              16
+175        QGGYQQYNPQGGYQQ                                         0.276           5 Res Arc       76              90              15
+176        QGGYQQYNPQGGYQQQ                                        0.248           6 Res Arc 2     76              91              16
+177        QGGYQQYNPQGGY                                           0.166           PPL             76              88              13
+178        GGYQQYNPQGGYQQQFN                                       0.433           PPL             77              93              17
+179        GGYQQYNPQGGYQQQ                                         0.364           5 Res Arc       77              91              15
+180        GGYQQYNPQGGYQQQF                                        0.344           6 Res Arc 2     77              92              16
+181        GGYQQYNPQGGYQQQF                                        0.248           6 Res Arc 1     77              92              16
+182        GGYQQYNPQGGYQ                                           0.120           PPL             77              89              13
+183        GYQQYNPQGGYQQQFN                                        0.248           6 Res Arc 2     78              93              16
+184        YQQYNPQGGYQQQF                                          0.599           GBEB            79              92              14
+185        YQQYNPQGGYQQQFN                                         0.485           5 Res Arc       79              93              15
+186        QGGYQQQFNPQGGRGNYKNFNYN                                 0.547           5 Res Arc       85              107             23
+187        QGGYQQQFNPQGGRGNYKNFN                                   0.380           PPL             85              105             21
+188        QGGYQQQFNPQGGRGNYKN                                     0.346           5 Res Arc       85              103             19
+189        GGYQQQFNPQGGRGNYKNFN                                    0.299           6 Res Arc 1     86              105             20
+190        GGYQQQFNPQGGRGNYKNFN                                    0.299           6 Res Arc 2     86              105             20
+191        GGYQQQFNPQGGRGNY                                        0.208           6 Res Arc 1     86              101             16
+192        GGYQQQFNPQGGRGNY                                        0.150           6 Res Arc 2     86              101             16
+193        GRGNYKNFNYNNNLQGYQA                                     0.278           5 Res Arc       97              115             19
+194        GRGNYKNFNYNNNLQGY                                       0.265           PPL             97              113             17
+195        GRGNYKNFNYNNNLQGYQ                                      0.216           GBPL            97              114             18
+196        GRGNYKNFNYNNN                                           0.104           PPL             97              109             13
+197        GRGNYKNFNYNNNLQG                                        0.077           6 Res Arc 2     97              112             16
+198        GNYKNFNYNNNLQGYQAGF                                     0.388           5 Res Arc       99              117             19
+199        GNYKNFNYNNNLQGYQA                                       0.356           PPL             99              115             17
+200        GNYKNFNYNNNLQGYQAGFQ                                    0.306           6 Res Arc 1     99              118             20
+201        GNYKNFNYNNNLQGYQAGFQ                                    0.306           6 Res Arc 2     99              118             20
+202        GNYKNFNYNNNLQGYQ                                        0.176           6 Res Arc 1     99              114             16
+203        GNYKNFNYNNNLQGYQ                                        0.176           6 Res Arc 2     99              114             16
+204        YKNFNYNNNLQGYQAGFQ                                      0.446           GBPL            101             118             18
+205        YKNFNYNNNLQGYQAGF                                       0.431           PPL             101             117             17
+206        YKNFNYNNNLQGYQ                                          0.275           GBPL            101             114             14
+207        NFNYNNNLQGYQAGF                                         0.512           5 Res Arc       103             117             15
+208        NFNYNNNLQGYQAGFQ                                        0.382           6 Res Arc 1     103             118             16
+209        NFNYNNNLQGYQAGFQ                                        0.382           6 Res Arc 2     103             118             16
+210        FNYNNNLQGYQAGF                                          0.455           GBPL            104             117             14
+211        FNYNNNLQGYQAGFQ                                         0.404           5 Res Arc       104             118             15
+212        FNYNNNLQGYQAG                                           0.347           PPL             104             116             13
+213        NYNNNLQGYQAGFQ                                          0.449           GBEB            105             118             14
+214        NYNNNLQGYQAGFQ                                          0.404           GBPL            105             118             14
+215        NYNNNLQGYQAGF                                           0.347           PPL             105             117             13
+216        YNNNLQGYQAGFQ                                           0.274           PPL             106             118             13
+217        QGYQAGFQPQSQG                                           0.274           PPL             111             123             13

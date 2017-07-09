@@ -1,0 +1,42 @@
+Gene name : APP_42
+Protein sequence : DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVVIA
+#################################################################################### CANDIDATES DETAILS ####################################################################################
+Number     Sequence                                                Score           Arc Type        Start Position  Stop Position   Length
+1          DAEFRHDSGYEVHHQK                                        0.146           6 Res Arc 1     1               16              16
+2          DAEFRHDSGYEVHHQK                                        0.146           6 Res Arc 2     1               16              16
+3          AEFRHDSGYEVHHQKLVF                                      0.442           GBPL            2               19              18
+4          AEFRHDSGYEVHHQKLVFFA                                    0.409           6 Res Arc 1     2               21              20
+5          AEFRHDSGYEVHHQKL                                        0.377           6 Res Arc 1     2               17              16
+6          AEFRHDSGYEVHHQKL                                        0.377           6 Res Arc 2     2               17              16
+7          AEFRHDSGYEVHH                                           0.192           PPL             2               14              13
+8          EFRHDSGYEVHHQK                                          0.192           GBPL            3               16              14
+9          FRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLM                        0.271           6 Res Arc 1     4               35              32
+10         FRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLM                        0.271           6 Res Arc 2     4               35              32
+11         FRHDSGYEVHHQKLVFFA                                      0.256           GBPL            4               21              18
+12         RHDSGYEVHHQKL                                           0.217           PPL             5               17              13
+13         RHDSGYEVHHQKLVF                                         0.197           5 Res Arc       5               19              15
+14         HDSGYEVHHQKLVFFA                                        0.135           6 Res Arc 2     6               21              16
+15         SGYEVHHQKLVFFA                                          0.240           GBPL            8               21              14
+16         VHHQKLVFFAEDVGS                                         0.157           5 Res Arc       12              26              15
+17         HHQKLVFFAEDVGSNKGAIIGL                                  0.643           GBPL            13              34              22
+18         HHQKLVFFAEDVGSNKGAII                                    0.430           6 Res Arc 2     13              32              20
+19         HHQKLVFFAEDVGSNKGAIIGLM                                 0.401           5 Res Arc       13              35              23
+20         QKLVFFAEDVGSNKGAIIGLMV                                  0.650           GBPL            15              36              22
+21         QKLVFFAEDVGSNKGAIIGLMVGGVVIA                            0.622           6 Res Arc 2     15              42              28
+22         QKLVFFAEDVGSNKGAIIGLMVGGVVI                             0.594           5 Res Arc       15              41              27
+23         QKLVFFAEDVGSNKGAI                                       0.377           PPL             15              31              17
+24         VFFAEDVGSNKGAII                                         0.426           5 Res Arc       18              32              15
+25         GSNKGAIIGLMVGGVVIA                                      0.329           BEPL            25              42              18
+26         GSNKGAIIGLMVGGVVIA                                      0.329           GBPL            25              42              18
+27         GSNKGAIIGLMVGG                                          0.268           GBPL            25              38              14
+28         GSNKGAIIGLMVGGV                                         0.243           5 Res Arc       25              39              15
+29         GSNKGAIIGLMVGGVV                                        0.232           6 Res Arc 1     25              40              16
+30         GSNKGAIIGLMVGGVV                                        0.232           6 Res Arc 2     25              40              16
+31         GSNKGAIIGLMVGGVVI                                       0.220           PPL             25              41              17
+32         GSNKGAIIGLMVG                                           0.205           PPL             25              37              13
+33         NKGAIIGLMVGGVVI                                         0.365           5 Res Arc       27              41              15
+34         NKGAIIGLMVGGVVIA                                        0.324           6 Res Arc 1     27              42              16
+35         NKGAIIGLMVGGVVIA                                        0.324           6 Res Arc 2     27              42              16
+36         GAIIGLMVGGVVIA                                          0.419           GBPL            29              42              14
+37         GAIIGLMVGGVVI                                           0.347           PPL             29              41              13
+38         AIIGLMVGGVVIA                                           0.549           PPL             30              42              13
