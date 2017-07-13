@@ -9,7 +9,7 @@ Contacts: andrey.kajava@crbm.cnrs.fr, s.bondarev@spbu.ru or stanislavspbgu@gmail
 
 Numerous studies suggest that amyloid forming regions of more than 30 residues evoke structural arrangements consisting of several adjacent b-arches called b-serpentines or superpleated b-structure (Kajava A.V. et al., 2010, FASEB J). The BetaSerpentine program searches for possible b-serpentines within a protein and output them in order of preference starting from the highest score. 
 
-N.B. BetaSerpentine program is not aimed at the detection of the amyloidogenic regions. If you want, first, to predict the amyloidogenicity of your protein, use ArchCandy. 
+N.B. BetaSerpentine program is not aimed at the detection of the amyloidogenic regions. If you want, first, to predict the amyloidogenicity of your protein, use ArchCandy (Ahmed et al.,  Alzheimer’s & Dementia 11 (2015) 681-690). 
 
 ====================
 
